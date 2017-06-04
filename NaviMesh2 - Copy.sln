@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaviMesh2 - Copy", "Assembly-CSharp.csproj", "{86C75C6E-A2D4-3882-A6FC-564AAD29C651}"
+EndProject
+Project("{7BAF2BCF-06C3-C19E-5D22-A4FA29235FD6}") = "NaviMesh2 - Copy", "Assembly-UnityScript.unityproj", "{D6F6C9D3-96AD-03CD-8766-0729AECDB840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C75C6E-A2D4-3882-A6FC-564AAD29C651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C75C6E-A2D4-3882-A6FC-564AAD29C651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C75C6E-A2D4-3882-A6FC-564AAD29C651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C75C6E-A2D4-3882-A6FC-564AAD29C651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F6C9D3-96AD-03CD-8766-0729AECDB840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F6C9D3-96AD-03CD-8766-0729AECDB840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F6C9D3-96AD-03CD-8766-0729AECDB840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F6C9D3-96AD-03CD-8766-0729AECDB840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

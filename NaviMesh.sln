@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaviMesh", "Assembly-CSharp.csproj", "{2033701E-9F87-F543-23D3-0405ACAF80ED}"
+EndProject
+Project("{E1A41DC9-0422-A040-BEA1-6B2BFF30CA43}") = "NaviMesh", "Assembly-UnityScript.unityproj", "{E85162B5-BC40-C433-ACB9-892455BA942C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2033701E-9F87-F543-23D3-0405ACAF80ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2033701E-9F87-F543-23D3-0405ACAF80ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2033701E-9F87-F543-23D3-0405ACAF80ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2033701E-9F87-F543-23D3-0405ACAF80ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85162B5-BC40-C433-ACB9-892455BA942C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85162B5-BC40-C433-ACB9-892455BA942C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85162B5-BC40-C433-ACB9-892455BA942C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85162B5-BC40-C433-ACB9-892455BA942C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
